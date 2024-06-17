@@ -1,0 +1,63 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #0f7180;
+}
+header {
+    background-color: #333;
+    color: #e8dfdf;
+    padding: 10px 20px;
+    text-align: center;
+}
+nav {
+    background-color: #ffffff;
+    color: #748b77;
+    padding: 10px 20px;
+    text-align: center;
+}
+nav a {
+    color: #000000;
+    text-decoration: none;
+    margin: 0 10px;
+}
+section {
+    padding: 20px;
+    text-align: center;
+
+}
+.product {
+    display: inline-block;
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    width: 200px;
+    margin-top: 50px;
+   
+}
+.product img {
+    width: 150px;
+    height: 150px;
+    justify-content: center;
+    align-content: flex-end;
+    margin-top: 20px;
+   
+}
+.cabeça {
+    margin-top: 10px;
+    text-align: center;
+    
+    
+    
+}
+.boooo  {
+    display: inline-block;
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #c2c2c2;
+    border-radius: 10px;
+    width: 150px;
+    margin-top: 50px;
+    
+}
